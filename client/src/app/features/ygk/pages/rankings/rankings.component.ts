@@ -655,7 +655,7 @@ export class RankingsComponent implements OnInit {
     rankingDialogVisible = false;
     selectedDepartment: DepartmentRankingInfo | null = null;
 
-    private readonly applicationPeriod = this.getCurrentApplicationPeriod();
+    readonly applicationPeriod = this.getCurrentApplicationPeriod();
 
     constructor(
         private ygkService: YgkService,
