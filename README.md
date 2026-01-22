@@ -2,6 +2,13 @@
 
 This guide explains how to set up the Undergraduate Transfer Management System (UTMS) locally.
 
+<img width="1510" height="948" alt="Screenshot 2026-01-22 at 19 53 28" src="https://github.com/user-attachments/assets/9b9d85d1-ff9c-43c5-9988-84ad8c16ad02" />
+
+<img width="1511" height="948" alt="Screenshot 2026-01-22 at 19 53 48" src="https://github.com/user-attachments/assets/aab34bc6-be47-4e1f-b605-8f2a15ff06cf" />
+
+<img width="1512" height="944" alt="Screenshot 2026-01-22 at 19 54 17" src="https://github.com/user-attachments/assets/dd5877f0-d993-45ec-9ff2-4f659e27eee5" />
+
+
 ## Prerequisites
 
 - **Node.js** v18 or higher
